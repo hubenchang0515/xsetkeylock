@@ -125,7 +125,7 @@ static Bool check_args(int argc, char* argv[])
         printf("           \toff - turn off the key lock\n");
         printf("           \ttoggle - toggle the key lock\n");
         printf("           \tstatus - get the key lock status\n");
-        printf("MIT License(https:github.com/hubenchang0515/)\n");
+        printf("MIT License(https://github.com/hubenchang0515/)\n");
         return False;
     }
 

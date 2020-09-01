@@ -8,5 +8,5 @@ Usage : xsetkeylock (NumLock|CapsLock|ScrollLock) (on|off|toggle|status)
                 off - turn off the key lock
                 toggle - toggle the key lock
                 status - get the key lock status
-MIT License(https:github.com/hubenchang0515/)
+MIT License(https://github.com/hubenchang0515/)
 ```
